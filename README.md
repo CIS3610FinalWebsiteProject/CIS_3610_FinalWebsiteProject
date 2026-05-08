@@ -1,6 +1,6 @@
 # CIS_3610_FinalWebsiteProject
 This repository is meant to be used by Alejandro, Anthony, and Ryan as way to develop and deploy their website. 
-1) https://cis3610finalwebsiteproject.github.io/CIS_3610_FinalWebsiteProject/
+1) https://cis3610finalwebsiteproject.github.io/CIS_3610_FinalWebsiteProject/ (GitHub deployment)
 
 2) https://www.figma.com/design/9QVOMNp3La6ylbGrFkhnvN/Blog-Wireframe--Community-?node-id=0-1&t=nev4Tm9VG0bonhza-1 (Low-Fidelity Wireframe) 
 3) https://docs.google.com/document/d/1T_WUSirQu-YbzA92kyNOItQA4TDA_f6Rn8bsXDbHyYc/edit?usp=sharing (Project Narrative)
