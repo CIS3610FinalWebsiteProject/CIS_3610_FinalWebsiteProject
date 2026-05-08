@@ -6,3 +6,5 @@ This repository is meant to be used by Alejandro, Anthony, and Ryan as way to de
 3) https://docs.google.com/document/d/1T_WUSirQu-YbzA92kyNOItQA4TDA_f6Rn8bsXDbHyYc/edit?usp=sharing (Project Narrative)
 
 4) https://www.figma.com/design/mrK4AseJOt0JyVLdiokg59/Two-Connecting-Pages?t=x9lfnWtP9hREMeNh-1 (High-Fidelity Prototype)
+
+5) https://csula-my.sharepoint.com/:p:/r/personal/rhwang6_calstatela_edu/Documents/CIS%203610%20Final%20Project%20Presentation.pptx?d=w69d2f0689e0b49f99f3225e0d6caa6de&csf=1&web=1&e=I9RMc4 (Presentation)
